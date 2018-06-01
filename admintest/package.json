@@ -1,0 +1,31 @@
+{
+  "name": "webcloneserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "make": "babel-node app.js"
+  },
+  "author": "sanjin",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/dybaseapi": "^1.0.0",
+    "@alicloud/dysmsapi": "^1.0.0",
+    "@alicloud/mns": "^1.0.0-beta5",
+    "axios": "^0.16.2",
+    "koa": "^2.3.0",
+    "koa-body": "^2.5.0",
+    "koa-jwt": "^3.2.2",
+    "koa-logger": "^3.1.0",
+    "koa-router": "^7.2.1",
+    "koa-static2": "^0.1.8",
+    "koa2-cors": "^2.0.3",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
