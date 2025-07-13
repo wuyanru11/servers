@@ -20,7 +20,7 @@
     "koa-router": "^7.2.1",
     "koa-static2": "^0.1.8",
     "koa2-cors": "^2.0.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mongodb": "^2.2.33"
   },
   "devDependencies": {
