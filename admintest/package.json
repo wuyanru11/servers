@@ -13,7 +13,7 @@
     "@alicloud/dysmsapi": "^1.0.0",
     "@alicloud/mns": "^1.0.0-beta5",
     "axios": "^0.16.2",
-    "koa": "^2.3.0",
+    "koa": "^3.0.1",
     "koa-body": "^2.5.0",
     "koa-jwt": "^3.2.2",
     "koa-logger": "^3.1.0",
